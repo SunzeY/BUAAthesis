@@ -183,7 +183,7 @@ The LaTeX template for thesis of BUAA]
         \else
             \fancyhead[C]{
                 \includegraphics[width=37bp]{figure/buaamark.pdf}\hfill
-                \raisebox{2ex}{\heiti\zihao{4}\buaa@university 毕业设计(论文)}\hfill
+                \raisebox{2ex}{\heiti\zihao{4}\buaa@university 计算机科学方法论小论文}\hfill
                 \raisebox{2ex}{\songti\zihao{5}第\quad\thepage\quad 页}
             }
         \fi
